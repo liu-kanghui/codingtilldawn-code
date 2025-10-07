@@ -22,5 +22,16 @@
   "complexity": {
     "time": "O(n)",
     "space": "O(n)"
-  }
+  },
+    "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers"
+  ],
+  "similarProblems": [
+    "15",
+    "167",
+    "170",
+    "653"
+  ]
 }
